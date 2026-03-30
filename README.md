@@ -19,8 +19,8 @@ This project predicts flight delays based on arrivals at Sea-Tac International A
 
 ## Project Structure
 * `Flight_Delay_Prediction.ipynb`: The core data pipeline and modeling code.
-* `Project_Report.pdf`: A detailed technical deep-dive into the findings.
-* `Presentation_Slides.pdf`: A high-level summary for non-technical stakeholders.
+* `Flight Delay Report.pdf`: A detailed technical deep-dive into the findings.
+* `MSIS 502 - Flight Delay Presentation.pdf`: A high-level summary for non-technical stakeholders.
 
 ## Data Source
 Data was pulled from the [Bureau of Transportation Statistics (BTS)](https://www.transtats.bts.gov/ot_delay/OT_DelayCause1.asp?20=E), focusing on domestic flight delay causes and carrier performance.
