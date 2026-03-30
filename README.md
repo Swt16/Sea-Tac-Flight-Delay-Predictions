@@ -22,7 +22,6 @@ This project analyzes flight disruptions (delays, cancellations, and diversions)
 * **Data Source:** [U.S. Bureau of Transportation Statistics (BTS)](https://www.transtats.bts.gov/ot_delay/OT_DelayCause1.asp?20=E)
 
 ---
-## License
-MIT License
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
