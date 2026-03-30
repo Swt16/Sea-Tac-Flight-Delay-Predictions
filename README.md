@@ -6,7 +6,7 @@ This project analyzes flight disruptions (delays, cancellations, and diversions)
 
 ## Interactive Demo & Assets
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ojj-2Eh-NRLNMm64szHyHDGamdCBYCPF?usp=sharing)
-* [View Presentation Slides](Flight_Delay_Predictions.pdf) — *Highlights: Business Impact & Executive Summary*
+* [View Presentation Slides](https://github.com/Swt16/Sea-Tac-Flight-Delay-Predictions/blob/main/Flight%20Delay%20Predictions.pdf) — *Highlights: Business Impact & Executive Summary*
 
 ---
 
